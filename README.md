@@ -42,9 +42,10 @@ filename=input("Enter Filename:")
 wordcount(filename)
 ```
 ### OUTPUT:
-
+### Text File "File1.txt":
 ![output 1](q1.png)
 
+### Output of the code:
 ![output 2](q2.png)
 
 ## RESULT:
